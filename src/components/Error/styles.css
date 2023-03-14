@@ -1,0 +1,10 @@
+.error-indicator__wrapper {
+  margin: 2em auto;
+  width: fit-content;
+}
+
+.error-indicator {
+  width: 32px;
+  height: 32px;
+}
+
